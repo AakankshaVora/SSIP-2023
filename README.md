@@ -69,7 +69,7 @@ Built using **HTML, CSS, JavaScript, and PHP**, this platform minimizes human er
 1. **Clone or download the repository:**
 
    ```bash
-   git clone https://github.com/Meet026/SSIP_2023.git
+   https://github.com/AakankshaVora/SSIP-2023.git
    ```
 
 2. **Move it to your server root**  
